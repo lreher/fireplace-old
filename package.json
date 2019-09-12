@@ -1,0 +1,18 @@
+{
+  "name": "friendly-queue",
+  "version": "1.0.0",
+  "description": "A communal Spotify queue application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "dependencies": {
+    "config": "^3.1.0"
+  },
+  "devDependencies": {
+    "tape": "^4.10.2",
+    "got": "^9.6.0"
+  },
+  "author": "Lucas Reher",
+  "license": "ISC"
+}
